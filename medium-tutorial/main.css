@@ -1,0 +1,6 @@
+/* Não esquecer de colocar uma altura para o mapa
+    Caso voc não coloque, o mesmo não será renderizado
+*/
+#map { 
+    height: 400px; 
+}
